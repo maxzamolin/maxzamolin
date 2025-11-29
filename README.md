@@ -60,15 +60,6 @@
 
 ---
 
-## 📊 GitHub Статистика
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=max_zamolin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=max_zamolin&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
 # 🌍 English version
 
 <h2 align="center">Hi, I'm Maxim — Web Developer</h2>
